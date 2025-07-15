@@ -1,7 +1,4 @@
-Built with AI, refined by a real user.
-This plugin was developed with help from AI tool (Claude AI) and tailored to solve problems we run into as a publisher. It’s not perfect — but it works. If it helps you too, that’s a win.
-
-# KSM External Link Manager v1.1
+# KSM External Link Manager
 
 A WordPress plugin that automatically opens all external links in a new tab for better user experience and SEO.
 
@@ -106,6 +103,11 @@ All functions, classes, and identifiers use the `ksm_elm` prefix:
 ## Support
 
 For support or feature requests, please contact Krafty Sprouts Media.
+
+## AI-Assisted Development
+
+**Built with AI, refined by a real user.**  
+This plugin was developed using Claude AI and refined through real-world publishing workflows at Krafty Sprouts Media. It’s designed to solve practical problems—quickly, efficiently, and without bloat. If it works for you too, that’s a win.
 
 ## License
 
