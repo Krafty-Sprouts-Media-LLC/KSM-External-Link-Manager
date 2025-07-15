@@ -1,3 +1,6 @@
+Built with AI, refined by a real user.
+This plugin was developed with help from AI tool (Claude AI) and tailored to solve problems we run into as a publisher. It’s not perfect — but it works. If it helps you too, that’s a win.
+
 # KSM External Link Manager v1.1
 
 A WordPress plugin that automatically opens all external links in a new tab for better user experience and SEO.
